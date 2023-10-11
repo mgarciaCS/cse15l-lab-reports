@@ -1,19 +1,19 @@
 
 ## Commands with no arguments 
 
-**cd** 
+** cd ** 
 ![Image](lab_report_pic1.png)
 * Working directory was home directory.
 * Without arguments, cd would take us back to the home directory, but we were already there.
 * No error.
 
-**ls**
+** ls **
 ![Image](lab_report_pic2.png)
 * Working directory was home directory.
 * Without arguments, ls will not list the contents of a directory like it is supposed to.
 * No error.
 
-**cat**
+** cat **
 ![Image](lab_report_pic3.png)
 * Working directory was home directory.
 * Without arguments, cat cannot show the contents of the file or directory. 
