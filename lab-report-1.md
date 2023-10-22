@@ -3,7 +3,7 @@
 
 ## Commands with no arguments 
 
-   ** cd **
+   **cd**
 
     ![Image](lab_report_pic1.png)
      * Working directory was home directory.
