@@ -6,6 +6,7 @@
    **cd**
 
   ![Image](lab_report_pic1.png)
+     
      * Working directory was home directory.
      * Without arguments, cd would take us back to the home directory, but we were already there.
      * No error.
