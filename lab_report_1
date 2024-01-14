@@ -1,0 +1,21 @@
+## CD Commands
+*** 
+  ** no arguments **
+  ![Image](CD-no-argument.png) 
+  * The working directory at this time was : /home
+  * There was no output from the cd command without arguments because the purpose of the cd command is to change directories. Without an argument added to the command it is lacking what directory to change to because it is already at the home directory.
+  * If this were already in other directories, this command without arguments would send us back to the home directory.
+
+  ** example of using the command with a path to a directory as an argument ** 
+  ![Image](CD-directory-argument.png) 
+  * The working directory at this time was : /home but after the command the working directory became /home/lecture1
+  * Using a directory as an argument with the cd command allowed me to change into that directory.
+
+  ** example of using the command with a path to a file as an argument ** 
+  ![Image](CD-file-argument.png) 
+  * The working directory at this time was : /home/lecture1
+  * I received the output shown above because cd is only meant to access directories, not information in specific files. 
+
+## LS Commands 
+*** 
+  ** no arguments ** 
