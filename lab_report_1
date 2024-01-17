@@ -19,3 +19,8 @@
 ## LS Commands 
 *** 
   ** no arguments ** 
+  ![Image](LS-no-argument.png) 
+  * The working directory at this time was : /home
+  * The output resulted in the main folder.
+ 
+ ** example of using 
